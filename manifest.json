@@ -1,0 +1,27 @@
+{
+  "name": "बच्चों के लिए स्मार्ट एरो ट्रेसिंग ऐप",
+  "short_name": "एरो ट्रेसिंग",
+  "description": "बच्चों के लिए स्मार्ट वर्ण/अक्षर ट्रेसिंग ऐप — उंगली से एरो के साथ लिखना सीखें",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0277bd",
+  "theme_color": "#01579b",
+  "lang": "hi",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
